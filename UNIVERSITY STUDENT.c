@@ -2,6 +2,7 @@
 int main() {
     printf(" University Student & Event Management System\n");
     return 0;
+}
 /*Problem Statement: University Student & Event Management System
 The university wants a software system to manage students, their participation in various events, and their performance/results in a single program. The system should be able to:
 Register Students
@@ -28,4 +29,5 @@ Names and event names should allow operations like concatenation, reverse, compa
 f)  Dynamic Decisions
 Decide how to organize students and event data efficiently.
 Decide which data types to use for marks, scores, and grades.
+
 Decide where to use typedef, enum, or union.*/
